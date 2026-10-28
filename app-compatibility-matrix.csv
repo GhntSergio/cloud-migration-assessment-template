@@ -1,0 +1,5 @@
+App,Vendor,DC version,Category,Used in (projects/spaces),Active users,Cloud version exists,Feature parity,Data migration path,Effort (L/M/H),Decision (Keep/Replace/Retire),Replacement,Owner,Notes
+Example: scripting app,Vendor name,x.y.z,Scripting,12 projects,All,Yes,Partial - scripts must be rewritten for Cloud APIs,Manual,H,Keep,,App owner,List every script with its purpose before deciding
+Example: test management app,Vendor name,x.y.z,Testing,3 projects,40,Yes,To assess,Vendor migration tool,M,Keep,,QA lead,
+Example: reporting app,Vendor name,x.y.z,Reporting,Dashboards,25,Yes,To assess,Manual (rebuild reports),M,Keep,,BI owner,
+Example: unused app,Vendor name,x.y.z,Utility,0,0,N/A,N/A,None,L,Retire,,Site admin,No usage over the last 12 months
