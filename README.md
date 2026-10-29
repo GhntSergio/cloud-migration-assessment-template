@@ -4,6 +4,8 @@
 
 A reusable framework to run a **Data Center to Cloud assessment** for Jira, Jira Service Management and Confluence: what to inventory, how to score Marketplace apps, how to log risks, and how to turn findings into a migration roadmap.
 
+![Assessment in 5 steps](docs/overview.png)
+
 It is built for consultants and Atlassian admins who need to deliver a clear, defensible recommendation to a steering committee.
 
 ## What is inside
